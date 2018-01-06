@@ -1,0 +1,152 @@
+{
+  "project_info": {
+    "project_number": "136312353660",
+    "firebase_url": "https://picturedatabase-1412d.firebaseio.com",
+    "project_id": "picturedatabase-1412d",
+    "storage_bucket": "picturedatabase-1412d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136312353660:android:e71afa155df7d880",
+        "android_client_info": {
+          "package_name": "com.example.picturedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136312353660-4cndq3ibrn6ljddnu1qa7edk2pldsntq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.picturedatabase",
+            "certificate_hash": "194de0a2d1e113f50964eee84d11d7ee8363befa"
+          }
+        },
+        {
+          "client_id": "136312353660-ua8ra530eq567f4rrl4ocsk29ku144tq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA9Mz_EE17WRox4EHCcbsAs_2egJGa9p8"
+        },
+        {
+          "current_key": "AIzaSyCyaWgj0cv9XNQmSTAFVS4_IAX_CV-poCk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136312353660-ua8ra530eq567f4rrl4ocsk29ku144tq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136312353660:android:f4548ae8fdc7e0c3",
+        "android_client_info": {
+          "package_name": "com.example.nathanphan.uploaddata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136312353660-dm3dbudkrvqse2e1gmithhkmm3c8j42h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nathanphan.uploaddata",
+            "certificate_hash": "51ce775dfcd4061b82f098d8633ed2ef61d08f01"
+          }
+        },
+        {
+          "client_id": "136312353660-ua8ra530eq567f4rrl4ocsk29ku144tq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA9Mz_EE17WRox4EHCcbsAs_2egJGa9p8"
+        },
+        {
+          "current_key": "AIzaSyCyaWgj0cv9XNQmSTAFVS4_IAX_CV-poCk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136312353660-ua8ra530eq567f4rrl4ocsk29ku144tq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136312353660:android:af6a2a74a4f80893",
+        "android_client_info": {
+          "package_name": "com.example.nathanphan.googlemapstest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136312353660-afh4a9gju0f5nb94nd2dp7paf85nqccn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nathanphan.googlemapstest",
+            "certificate_hash": "51ce775dfcd4061b82f098d8633ed2ef61d08f01"
+          }
+        },
+        {
+          "client_id": "136312353660-ua8ra530eq567f4rrl4ocsk29ku144tq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA9Mz_EE17WRox4EHCcbsAs_2egJGa9p8"
+        },
+        {
+          "current_key": "AIzaSyCyaWgj0cv9XNQmSTAFVS4_IAX_CV-poCk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136312353660-ua8ra530eq567f4rrl4ocsk29ku144tq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

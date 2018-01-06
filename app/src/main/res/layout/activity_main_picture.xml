@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:paddingBottom="10dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingTop="10dp"
+        android:background="@drawable/activity_background"
+        tools:context="com.example.nathanphan.googlemapstest.MainPictureActivity"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/editText"
+            android:textCursorDrawable="@null"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="Description" />
+
+        <br.com.bloder.magic.view.MagicButton
+            android:id="@+id/chooseImg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:magic_button_size="50dp"
+            app:button_icon="@drawable/choose"
+            app:button_icon_width="25dp"
+            app:button_icon_height="25dp"
+            app:hide_text="Choose Image"
+            app:hide_text_color="@android:color/black"
+            app:icon_button_color="#21ABDB"
+            app:expandable_area_color="#21ABDB"/>
+
+        <br.com.bloder.magic.view.MagicButton
+            android:id="@+id/uploadImg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:magic_button_size="50dp"
+            app:button_icon="@drawable/upload"
+            app:button_icon_width="25dp"
+            app:button_icon_height="25dp"
+            app:hide_text="Upload Images"
+            app:hide_text_color="@android:color/black"
+            app:icon_button_color="#F05838"
+            app:expandable_area_color="#F05838"/>
+
+        <br.com.bloder.magic.view.MagicButton
+            android:id="@+id/showImg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:magic_button_size="50dp"
+            app:button_icon="@drawable/show"
+            app:button_icon_width="25dp"
+            app:button_icon_height="25dp"
+            app:hide_text="Show Images"
+            app:hide_text_color="@android:color/black"
+            app:icon_button_color="#d0d4e2"
+            app:expandable_area_color="#d0d4e2"/>
+
+        <TextView
+            android:id="@+id/locationID"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" />
+    </LinearLayout>

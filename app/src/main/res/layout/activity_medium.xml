@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.nathanphan.googlemapstest.Medium"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/editTextNewName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName" />
+
+    <Button
+        android:id="@+id/buttonChangeName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="updateName"
+        android:text="Change Name" />
+
+    <Button
+        android:id="@+id/buttonUploadPictures"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="uploadPicture"
+        android:text="Upload Pictures" />
+
+</LinearLayout>
